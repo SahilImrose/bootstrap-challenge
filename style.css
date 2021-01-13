@@ -1,0 +1,122 @@
+.btn{
+    border-radius: 0.5em;
+    background-image: linear-gradient( 135deg, rgb(252, 71, 101),pink, lightblue);
+    color: white;
+    border: none;
+}
+.btn:hover{
+    background-image: linear-gradient( 270deg, rgb(252, 71, 101),pink, lightblue); 
+}
+.lll{
+    width: 300px;
+}
+.nn{
+    background-color: rgb(104, 255, 255);
+    border-radius: 0.8em;
+}
+
+.PP{
+    width: 800px;
+    display: flex;
+}
+.mmm{
+    align-items: center;
+    justify-content:center;
+    background-color: orangered;
+    width: 500px;
+}
+.n{
+    grid-gap:  ;
+    display: flex;
+
+}
+.l{
+    border: solid 1px darkblue;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+    width: 500px;
+    margin-top: 90px;
+    margin-right: 116px;
+}
+.l h1{
+    margin-right: 90px;
+}
+.l img{
+    margin-left: 140px;
+}
+.m{
+    border: solid 1px darkblue;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+    width: 500px;
+    margin-top: 90px;
+    
+}
+.m h1{
+    margin-right: 90px;
+}
+.m img{
+    margin-left: 160px;
+}
+.o{
+    border: solid 1px darkblue;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+    margin-top: 90px;
+    margin-right: 116px;    
+    
+    width: 500px;
+}
+.o h1{
+    margin-left: 30px;
+}
+.o img{
+    margin-left: 200px;
+}
+.p{
+    border: solid 1px darkblue;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+    margin-top: 90px;
+    width: 500px;
+}
+.p h1{
+    margin-left: 30px;
+}
+.p img{
+    margin-left: 170px;
+    margin-top: 10px;
+
+}
+.card{
+   border: blue solid 1px;
+   border-radius: 1em;
+
+}
+.card-footer{
+    background-color: white;
+    border: none;
+
+}
+.jjj p{
+    text-align: center;
+}
+.BB{
+    background-color: rgb(158, 253, 253);
+    border-radius: 10px;
+}
+input{
+    border: none;
+    border-radius: 5px;
+}
+input:focus{
+    color: blue;
+    border-radius: 5px;
+}
+.kk{
+    margin-top: 90px;
+}
